@@ -1,4 +1,5 @@
 import Actionsheet from './actionsheet';
+import ActivityIndicator from './activityIndicator';
 import Button from './button';
 import Checkbox from './checkbox';
 import Col from './col';
@@ -31,6 +32,7 @@ import '../style/index.less';
 const version = '0.9.3';
 const components = [
   Actionsheet,
+  ActivityIndicator,
   Button,
   Checkbox,
   Col,
@@ -76,6 +78,7 @@ export {
   install,
   version,
   Actionsheet,
+  ActivityIndicator,
   Button,
   Checkbox,
   Col,

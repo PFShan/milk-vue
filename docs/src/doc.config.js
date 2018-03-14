@@ -97,6 +97,10 @@ module.exports = {
             {
               'path': '/search-bar',
               'title': 'SearchBar - 搜索栏'
+            },
+            {
+              'path': '/activity-indicator',
+              'title': 'ActivityIndicator - 活动指示器'
             }
           ]
         }, {
